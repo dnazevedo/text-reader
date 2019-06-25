@@ -1,0 +1,11 @@
+C:\Code\TextReader\TextReader\bin\Debug\netcoreapp2.2\TextReader.deps.json
+C:\Code\TextReader\TextReader\bin\Debug\netcoreapp2.2\TextReader.runtimeconfig.json
+C:\Code\TextReader\TextReader\bin\Debug\netcoreapp2.2\TextReader.runtimeconfig.dev.json
+C:\Code\TextReader\TextReader\bin\Debug\netcoreapp2.2\TextReader.dll
+C:\Code\TextReader\TextReader\bin\Debug\netcoreapp2.2\TextReader.pdb
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.csprojAssemblyReference.cache
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.csproj.CoreCompileInputs.cache
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.AssemblyInfoInputs.cache
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.AssemblyInfo.cs
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.dll
+C:\Code\TextReader\TextReader\obj\Debug\netcoreapp2.2\TextReader.pdb
